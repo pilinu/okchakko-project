@@ -1,5 +1,4 @@
-<font size="24">The okchakko project</font>
-
+<p style="font-size:30px">The okchakko project</p>
 
 
 <img align="right" width="35%" src="https://github.com/pilinu/okchakko-project/blob/main/logo/okchakko-project-logo.png">
