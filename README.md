@@ -1,7 +1,5 @@
 # okchakko-project
 
-# Philosophy considerations on endangered languages
-
 # General considerations
 
 ## project name
