@@ -42,7 +42,7 @@ For the sake of simplicity, the dictionary format will be .csv. Each language wi
 - rule type: freR, itaR, sdnR for (respectively) french, italian and gallurese rule types: this item is used used to compute plurals of nouns or adjectives, as well as conjugated forms of verbs. 
 
 ## grammatical typology
-<img align="right" width="30%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/British_and_European_butterflies_and_moths_%28Macrolepidoptera%29_%28Plate_XII%29_%286466293519%29.jpg/600px-British_and_European_butterflies_and_moths_%28Macrolepidoptera%29_%28Plate_XII%29_%286466293519%29.jpg">
+<img align="right" width="25%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/British_and_European_butterflies_and_moths_%28Macrolepidoptera%29_%28Plate_XII%29_%286466293519%29.jpg/600px-British_and_European_butterflies_and_moths_%28Macrolepidoptera%29_%28Plate_XII%29_%286466293519%29.jpg">
 
 The multilingual dictionary will only contain lemmas (derived forms will be computed lately). The main grammatical types are:
 - masculine singular common nouns : NCms
