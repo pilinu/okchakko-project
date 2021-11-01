@@ -1,5 +1,9 @@
 # okchakko-project
 
+
+
+<img align="right" width="40%" src="https://github.com/pilinu/okchakko-project/blob/main/logo/okchakko-project-logo.png">
+
 # General considerations
 
 ## project name
