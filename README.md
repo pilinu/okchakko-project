@@ -100,7 +100,7 @@ The mode of writing in Gallurese will be that which appears in the writings of M
 ### Sicilian language
 - iso 639-2 code: scn 
 
-## Evolution
+## evolution
 Lately, further columns will be added for each language:
 - lemma: for derived words
 - rule: how to generate plural or conjugated forms of verbs
