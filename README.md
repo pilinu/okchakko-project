@@ -1,4 +1,4 @@
-<font size="+5">The okchakko project</font>
+<font size="24">The okchakko project</font>
 
 
 
