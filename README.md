@@ -103,12 +103,26 @@ Lately, further columns will be added for each language:
 - lemma: for derived words
 - rule: how to generate plural or conjugated forms of verbs
 
-# Bilingual dictionaries
+# Bilingual-dictionaries
+There exists priority translation pairs, from the standpoint of endangered languages. Such notion of a priority pair (the most useful pair for the current users of the endangered language), regarding a given endangered language. For example, French to Corsican is a priority pair, with respect to other pairs suchas Gallurese-Corsican, English-Corsican or Spanish-Corsican. In this context, any endangered language has its own priority pair. For example, a priority pair for sardinian gallurese is Italian-Gallurese. In the same way, a priority pair for sardinian sassarese is Italian-Sassarese. In an analogous way, a priority pair for sicilian language is Italian-Sicilian.
+
+Let us discuss the question of priority pairs with regard to endangered languages. It consists of the most wanted translation pairs for a given endangered language, in keeping with the main language with which it is associated. To take an example: French-Corsican is the priority pair for Corsican language. In the same way, Italian-Gallurese is the priority pair for Gallurese language, etc. Now expanding on that idea, priority pairs are:
+
+- Corsican: (i) French-Corsican (ii) Italian-Corsican (iii) English-Corsican
+- Sardinian Gallurese: (i) Italian-Gallurese (ii) English-Gallurese
+- Sardinian Sassarese: (i) Italian- Sassarese (ii) English-Sassarese
+- Sardinian Logodurese: (i) Italian-Logodurese (ii) English-Logodurese
+- Sicilian: (i) Italian- Sicilian (ii) English-Sicilian
+- Manx: (i) English-Manx
+- Munegascu: (i) French-Munegascu (ii) Italian-Munegascu (iii) English-Munegascu
+
+Pairs such as French to Gallurese, French to Sassarese, English to Gallurese, English to Sassarese, English to Sicilian do not have priority, as they can be resolved using an intermediate pair. French to Gallurese is done with the French to Italian pair (e.g. with Deepl) and then with the Italian to Gallurese pair, etc.
+
 The bilingual dictionaries are understood here in an extended sense. They include:
 - common nouns, proper nouns, adjectives, verbs, adverbs, etc.
 - noun locutions, adjectival locutions, verbal locutions, adverbial locutions, etc.
 
-Bilingual dictionaries will be calculated automatically from the multilingual dictionary.
+Bilingual dictionaries will be computed automatically from the multilingual dictionary.
 
 # Unilingual dictionaries
 The unilingual dictionaries are understood here in an extended sense. They include:
