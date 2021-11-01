@@ -138,4 +138,10 @@ The unilingual dictionaries are understood here in an extended sense. They inclu
 
 Unilingual dictionaries will be calculated automatically from the multilingual dictionary.
 
+A repository for monolingual dictionaries of:
+- endangered languages
+- major languages
+
+Dictionaries are stored in .csv format, for the sake of simplicity.
+
 
