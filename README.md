@@ -129,6 +129,6 @@ The unilingual dictionaries are understood here in an extended sense. They inclu
 - common nouns, proper nouns, adjectives, verbs, adverbs, etc.
 - noun locutions, adjectival locutions, verbal locutions, adverbial locutions, etc.
 
-Bilingual dictionaries will be calculated automatically from the multilingual dictionary.
+Unilingual dictionaries will be calculated automatically from the multilingual dictionary.
 
 
