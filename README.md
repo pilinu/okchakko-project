@@ -1,14 +1,14 @@
 # okchakko-project
 
-# philosophy considerations on endangered languages
+# Philosophy considerations on endangered languages
 
-# general considerations
+# General considerations
 
-## project name
+## Project name
 The name 'okchakko' comes from the endangered choctaw language and refers to a pale green or blue: there is no word for 'blue' or 'green' in the choctaw language but only 'okchamali', which refers to a vivid green or blue, and 'okchakko', which designates a pale green or blue. This emphasises that the taxonomies of colour in human languages are not identical, and reflects the cognitive diversity that characterises them.
 
 As William Poundstone (*Labyrinths of reason*, 1989) emphasizes: 'A jeweler examines an emerald. “Aha,” he says, “another green emerald. In all my years in this business, I must have seen thousands of emeralds, and every one has been green.” We think the jeweler reasonable to hypothesize that all emeralds are green. Next door is another jeweler having equally comprehensive experience with emeralds. He speaks only the Choctaw Indian language. Color distinctions are not as universal as might be thought. The Choctaw Indians made no distinction between green and blue—the same words applied to both. The Choctaws did make a linguistic distinction between okchamali, a vivid green or blue, and okchakko, a pale green or blue. The Choctaw-speaking jeweler says: All emeralds are okchamali. He maintains that all his years in the jewelry business confirm this hypothesis.' 
-## priority pairs
+## Priority pairs
 With regard to endangered languages, priority pairs are the most wanted translation pairs for a given endangered language, in keeping with the main language with which it is associated (on a diglossia relationship). To take an example: French-Corsican is the priority pair for Corsican language. In the same way, Italian-Gallurese is the priority pair for Gallurese language, etc. Now expanding on that idea, priority pairs are: 
 
 - Corsican: (i) French-Corsican (ii) Italian-Corsican (iii) English-Corsican
@@ -19,7 +19,7 @@ With regard to endangered languages, priority pairs are the most wanted translat
 - Manx: (i) English-Manx
 - Munegascu: (i) French-Munegascu (ii) Italian-Munegascu (iii) English-Munegascu
 
-## conditions for a given endangered language to be a candidate for this project
+## Conditions for a given endangered language to be a candidate for this project
 What are the conditions for a given endangered language to be a candidate for this project? Ideally, one should have:
 - a dictionary: some specialized lexicons are useful too
 - a list of locutions and their translation: to be more accurate what is needed are noun locutions, adjective locutions, adverbial locutions, verbal locutions and their translations in other language.
@@ -29,7 +29,7 @@ What are the conditions for a given endangered language to be a candidate for th
 
 But the target concerns all languages and these conditions can be added incrementally
 
-# multilingual dictionary
+# Multilingual dictionary
 The aim of this project is to create a multilingual dictionary. The relevant languages are major languages and endangered languages. To begin with, we shall focus on the italian-gallurese, italian-sassarese, italian-logudorese, italian-campidanese, italian-sicilian pairs.
 The dictionary is understood here in an extended sense. It includes:
 - common nouns, proper nouns, adjectives, verbs, adverbs, etc.
@@ -105,14 +105,14 @@ Lately, further columns will be added for each language:
 - lemma: for derived words
 - rule: how to generate plural or conjugated forms of verbs
 
-# bilingual dictionaries
+# Bilingual dictionaries
 The bilingual dictionaries are understood here in an extended sense. They include:
 - common nouns, proper nouns, adjectives, verbs, adverbs, etc.
 - noun locutions, adjectival locutions, verbal locutions, adverbial locutions, etc.
 
 Bilingual dictionaries will be calculated automatically from the multilingual dictionary.
 
-# unilingual dictionaries
+# Unilingual dictionaries
 The unilingual dictionaries are understood here in an extended sense. They include:
 - common nouns, proper nouns, adjectives, verbs, adverbs, etc.
 - noun locutions, adjectival locutions, verbal locutions, adverbial locutions, etc.
