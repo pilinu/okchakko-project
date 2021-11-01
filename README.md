@@ -1,5 +1,56 @@
 # okchakko-project
 
+
+# philosophy considerations on endangered languages
+
+# general considerations
+
+## project name
+The name 'okchakko' comes from the endangered choctaw language and refers to a pale green or blue: there is no word for 'blue' or 'green' in the choctaw language but only 'okchamali', which refers to a vivid green or blue, and 'okchakko', which designates a pale green or blue. This emphasises that the taxonomies of colour in human languages are not identical, and reflects the cognitive diversity that characterises them.
+
+As William Poundstone (*Labyrinths of reason*, 1989) emphasizes: 'A jeweler examines an emerald. “Aha,” he says, “another green emerald. In all my years in this business, I must have seen thousands of emeralds, and every one has been green.” We think the jeweler reasonable to hypothesize that all emeralds are green. Next door is another jeweler having equally comprehensive experience with emeralds. He speaks only the Choctaw Indian language. Color distinctions are not as universal as might be thought. The Choctaw Indians made no distinction between green and blue—the same words applied to both. The Choctaws did make a linguistic distinction between okchamali, a vivid green or blue, and okchakko, a pale green or blue. The Choctaw-speaking jeweler says: All emeralds are okchamali. He maintains that all his years in the jewelry business confirm this hypothesis.' 
+## priority pairs
+With regard to endangered languages, priority pairs are the most wanted translation pairs for a given endangered language, in keeping with the main language with which it is associated (on a diglossia relationship). To take an example: French-Corsican is the priority pair for Corsican language. In the same way, Italian-Gallurese is the priority pair for Gallurese language, etc. Now expanding on that idea, priority pairs are: 
+
+- Corsican: (i) French-Corsican (ii) Italian-Corsican (iii) English-Corsican
+- Sardinian Gallurese: (i) Italian-Gallurese (ii) English-Gallurese
+- Sardinian Sassarese: (i) Italian- Sassarese (ii) English-Sassarese
+- Sardinian Logodurese: (i) Italian-Logodurese (ii) English-Logodurese
+- Sicilian: (i) Italian- Sicilian (ii) English-Sicilian
+- Manx: (i) English-Manx
+- Munegascu: (i) French-Munegascu (ii) Italian-Munegascu (iii) English-Munegascu
+
+## conditions for a given endangered language to be a candidate for this project
+What are the conditions for a given endangered language to be a candidate for this project? Ideally, one should have:
+- a dictionary: some specialized lexicons are useful too
+- a list of locutions and their translation: to be more accurate what is needed are noun locutions, adjective locutions, adverbial locutions, verbal locutions and their translations in other language.
+- a detailed grammar (in any language): ideally, the grammar should be very detailed, mentioning notably irregular verbs, noun plurals, etc. Subjonctive, conditional tenses must also be accurately described.
+- in addition, elision rules, euphony rules, should also be described.
+- most importantly: a description of the main variants of the language and their differences. This is needed to handle the ‘variant problem’ : as an effect of diversity, endangered languages are often polynomic in nature and come with variants.
+
+But the target concerns all languages and these conditions can be added incrementally
+
+# multilingual dictionary
+The dictionary is understood here in an extended sense. It includes:
+- common nouns, proper nouns, adjectives, verbs, adverbs, etc.
+- noun locutions, adjectival locutions, verbal locutions, adverbial locutions, etc.
+
+The multilingual dictionary will be the source for the bilingual and unilingual dictionaries.
+
+# bilingual dictionaries
+The bilingual dictionaries are understood here in an extended sense. They include:
+- common nouns, proper nouns, adjectives, verbs, adverbs, etc.
+- noun locutions, adjectival locutions, verbal locutions, adverbial locutions, etc.
+
+Bilingual dictionaries will be calculated automatically from the multilingual dictionary.
+
+# unilingual dictionaries
+The unilingual dictionaries are understood here in an extended sense. They include:
+- common nouns, proper nouns, adjectives, verbs, adverbs, etc.
+- noun locutions, adjectival locutions, verbal locutions, adverbial locutions, etc.
+
+Bilingual dictionaries will be calculated automatically from the multilingual dictionary.
+
 # multilingual-dictionary
 The aim of this project is to create a multilingual dictionary. The relevant languages are major languages and endangered languages. To begin with, we shall focus on the italian-gallurese, italian-sassarese, italian-logudorese, italian-campidanese, italian-sicilian pairs.
 
