@@ -99,6 +99,9 @@ The mode of writing in Gallurese will be that which appears in the writings of M
 ### Campidanese language
 - iso 639-2 code: sro 
 
+### Corsican language
+- iso 639-2 code: cos 
+
 ### Sicilian language
 - iso 639-2 code: scn 
 
