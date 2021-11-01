@@ -4,11 +4,11 @@
 
 # General considerations
 
-## Project name
+## project name
 The name 'okchakko' comes from the endangered choctaw language and refers to a pale green or blue: there is no word for 'blue' or 'green' in the choctaw language but only 'okchamali', which refers to a vivid green or blue, and 'okchakko', which designates a pale green or blue. This emphasises that the taxonomies of colour in human languages are not identical, and reflects the cognitive diversity that characterises them.
 
 As William Poundstone (*Labyrinths of reason*, 1989) emphasizes: 'A jeweler examines an emerald. “Aha,” he says, “another green emerald. In all my years in this business, I must have seen thousands of emeralds, and every one has been green.” We think the jeweler reasonable to hypothesize that all emeralds are green. Next door is another jeweler having equally comprehensive experience with emeralds. He speaks only the Choctaw Indian language. Color distinctions are not as universal as might be thought. The Choctaw Indians made no distinction between green and blue—the same words applied to both. The Choctaws did make a linguistic distinction between okchamali, a vivid green or blue, and okchakko, a pale green or blue. The Choctaw-speaking jeweler says: All emeralds are okchamali. He maintains that all his years in the jewelry business confirm this hypothesis.' 
-## Priority pairs
+## priority pairs
 With regard to endangered languages, priority pairs are the most wanted translation pairs for a given endangered language, in keeping with the main language with which it is associated (on a diglossia relationship). To take an example: French-Corsican is the priority pair for Corsican language. In the same way, Italian-Gallurese is the priority pair for Gallurese language, etc. Now expanding on that idea, priority pairs are: 
 
 - Corsican: (i) French-Corsican (ii) Italian-Corsican (iii) English-Corsican
@@ -19,7 +19,7 @@ With regard to endangered languages, priority pairs are the most wanted translat
 - Manx: (i) English-Manx
 - Munegascu: (i) French-Munegascu (ii) Italian-Munegascu (iii) English-Munegascu
 
-## Conditions for a given endangered language to be a candidate for this project
+## conditions for a given endangered language to be a candidate for this project
 What are the conditions for a given endangered language to be a candidate for this project? Ideally, one should have:
 - a dictionary: some specialized lexicons are useful too
 - a list of locutions and their translation: to be more accurate what is needed are noun locutions, adjective locutions, adverbial locutions, verbal locutions and their translations in other language.
@@ -37,13 +37,13 @@ The dictionary is understood here in an extended sense. It includes:
 
 The multilingual dictionary will be the source for the bilingual and unilingual dictionaries.
 
-## File structure
+## file structure
 For the sake of simplicity, the dictionary format will be .csv. Each language will have several dedicated columns:
 - word: fre, ita, sdn for (respectively) french, italian and gallurese words
 - grammatical type: freT, itaT, sdnT for (respectively) french, italian and gallurese grammatical types
 - rule type: freR, itaR, sdnR for (respectively) french, italian and gallurese rule types: this item is used used to compute plurals of nouns or adjectives, as well as conjugated forms of verbs. 
 
-## Grammatical typology
+## grammatical typology
 <img align="right" width="20%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/British_and_European_butterflies_and_moths_%28Macrolepidoptera%29_%28Plate_XII%29_%286466293519%29.jpg/600px-British_and_European_butterflies_and_moths_%28Macrolepidoptera%29_%28Plate_XII%29_%286466293519%29.jpg">
 
 The multilingual dictionary will only contain lemmas (derived forms will be computed lately). The main grammatical types are:
@@ -56,22 +56,22 @@ The multilingual dictionary will only contain lemmas (derived forms will be comp
 - adverbs: ADV
 - prepositions: PS
 
-## Multiple grammatical types
+## multiple grammatical types
 Some words have different grammatical types. For example, 'cardinale' in Italian (and 'cardinal' in French) can be both a common noun (NCms) and an adjective (AQms). This results in two entries in the multilingual dictionary:
 - cardinale, NCms
 - cardinale, AQms
 
-## Language codes
+## language codes
 The codes used to name each language are those from the iso 639-2 standard. These three-letter codes are included in the iso 639-2_codes file (see [List of ISO 639-2 codes](https://en.wikipedia.org/wiki/List_of_ISO_639-2_codes) and also https://www.loc.gov/standards/iso639-2/php/code_list.php). For example:
 - ita: Italian language
 - sdn: Gallurese language
 
-## Derived dictionaries
+## derived dictionaries
 From the multilingual dictionary, we will be in a position to compute:
 - a monolingual dictionary for each language concerned
 - a bilingual dictionary for each pair of languages concerned
 
-## Primary target
+## primary target
 Our primary target will be the italian-gallurese, italian-sassarese, italian-loudorese, italian-campidanese, italian-sicilian pairs and thus the associated translation.
 
 ### Gallurese language
