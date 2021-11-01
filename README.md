@@ -4,7 +4,7 @@
 # General considerations
 
 ## project history
-This project was initiated by philosopher [Paul Franceschi](www.paulfranceschi.com) in November 2021.
+This project was initiated by philosopher [Paul Franceschi](www.paulfranceschi.com) in November 2021. It is hosted under the okchakko-project name on [github](https://github.com/okchakko-project/okchakko-project).
 
 ## project name
 The name 'okchakko' comes from the endangered choctaw language and refers to a pale green or blue: there is no word for 'blue' or 'green' in the choctaw language but only 'okchamali', which refers to a vivid green or blue, and 'okchakko', which designates a pale green or blue. This emphasises that the taxonomies of colour in human languages are not identical, and reflects the cognitive diversity that characterises them.
