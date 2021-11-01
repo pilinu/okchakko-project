@@ -42,7 +42,7 @@ For the sake of simplicity, the dictionary format will be .csv. Each language wi
 - rule type: freR, itaR, sdnR for (respectively) french, italian and gallurese rule types: this item is used used to compute plurals of nouns or adjectives, as well as conjugated forms of verbs. 
 
 ## grammatical typology
-<img align="right" width="20%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/British_and_European_butterflies_and_moths_%28Macrolepidoptera%29_%28Plate_XII%29_%286466293519%29.jpg/600px-British_and_European_butterflies_and_moths_%28Macrolepidoptera%29_%28Plate_XII%29_%286466293519%29.jpg">
+<img align="right" width="30%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/British_and_European_butterflies_and_moths_%28Macrolepidoptera%29_%28Plate_XII%29_%286466293519%29.jpg/600px-British_and_European_butterflies_and_moths_%28Macrolepidoptera%29_%28Plate_XII%29_%286466293519%29.jpg">
 
 The multilingual dictionary will only contain lemmas (derived forms will be computed lately). The main grammatical types are:
 - masculine singular common nouns : NCms
@@ -74,7 +74,7 @@ Our primary target will be the italian-gallurese, italian-sassarese, italian-lou
 
 ### Gallurese language
 - iso 639-2 code: sdn 
-<img align="right" width="33%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Santa_Teresa_Gallura_-_Capo_Testa_%2818%29.JPG/512px-Santa_Teresa_Gallura_-_Capo_Testa_%2818%29.JPG">
+<img align="right" width="40%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Santa_Teresa_Gallura_-_Capo_Testa_%2818%29.JPG/512px-Santa_Teresa_Gallura_-_Capo_Testa_%2818%29.JPG">
 The Gallurese language is one of the four languages (along with Sassarese, Logudorese and Campidanese) which belongs to the macro-language of Sardinia. The Gallurese language belongs to the Italo-Dalmatian family and is spoken in the region of Gallura, northeastern Sardinia. Gallurese morphology and vocabulary are close to southern Corsican, especially the 'sartinese' variant, whereas its phonology and syntax are similar to those of other Sardinian languages. One third of Gallurese vocabulary is also influenced by Logudorese Sardinian, Catalan, and Spanish (adapted from wikipedia article).
 
 In a first step, we will implement one of the main variants of the Gallurese language (we will preferably choose a well documented variant, such as the one used in the writings of Maria Teresa Inzaina). Later on, the main variants of the Galluese language will have to be integrated. 
